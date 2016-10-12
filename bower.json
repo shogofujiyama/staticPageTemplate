@@ -1,0 +1,18 @@
+{
+  "name": "gulp-flocss-nw",
+  "version": "1.0.0",
+  "authors": [
+    "author <author@example.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "modularized-normalize-scss": "~3.0.3"
+  }
+}
